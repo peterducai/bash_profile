@@ -1,0 +1,2 @@
+# Serve folder with Python web server
+alias pythonserve='(python -m SimpleHTTPServer) & (firefox http://localhost:8000)'

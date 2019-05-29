@@ -1,0 +1,2 @@
+# GIT update/pull all repos in directory
+alias gitupall='ls | xargs -I{} git -C {} pull'
