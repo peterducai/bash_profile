@@ -1,0 +1,2 @@
+# yum install libguestfs-tools
+#virt-customize -a rhel-guest-image-7.2-20160302.0.x86_64.qcow2 --root-password password:PASSW0RD --uninstall cloud-init
