@@ -1,3 +1,4 @@
 # GIT update/pull all repos in directory
 alias gitupall='ls | xargs -I{} git -C {} pull'
-alias gitshowurls='find . -type d -exec sh -c ''cd "{}"; git config --get remote.origin.url\'' \; -prune -print'
+alias gitshowurl='find . -type d -exec sh -c ''cd "{}"; git config --get remote.origin.url\'' \; -prune -print'
+alias gitshowurls='ls | xargs -I{} git -C {} config --get remote.origin.url'
