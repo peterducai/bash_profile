@@ -8,6 +8,9 @@ https://github.com/crawsome/GuitarScaleChart.git
 https://github.com/justindarc/raphael.chord.js.git
 
 
+https://github.com/d2l-ai/d2l-en/releases/tag/v0.7.0
+
+
 https://github.com/redhat-cop/agnosticd.git
 ssh://git@gitlab.consulting.redhat.com:2222/Canary/ansible-canary-playbook-discovery.git
 ssh://git@gitlab.consulting.redhat.com:2222/Canary/installation-playbooks/ansible-canary-playbook-install-ansible-migration-factory.git
